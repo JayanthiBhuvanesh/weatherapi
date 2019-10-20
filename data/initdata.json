@@ -1,0 +1,4 @@
+{
+    "app" : "https://api.weatherbit.io/v2.0/current",
+    "forecastapp":"https://api.weatherbit.io/v2.0/forecast/hourly"
+}

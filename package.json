@@ -1,0 +1,39 @@
+{
+  "name": "weather_framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/jest"
+  },
+  "start": " node .",
+  "author": "Jay",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "@babel/runtime": "^7.3.4",
+    "aws-sdk": "^2.481.0",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^24.3.1",
+    "babel-preset-env": "^1.7.0",
+    "easy-soap-request": "^2.3.7",
+    "eyes": "^0.1.8",
+    "faker": "^4.1.0",
+    "fast-xml-parser": "^3.12.12",
+    "jest": "^24.3.1",
+    "jest-cli": "^24.7.1",
+    "jest-html-reporter": "^2.4.4",
+    "libxmljs": "^0.19.5",
+    "mocha": "^6.1.4",
+    "puppeteer": "^1.13.0",
+    "supertest": "^4.0.2",
+    "uglify-js": "^3.5.3",
+    "xml2js": "^0.4.19"
+  },
+  "dependencies": {
+    "promise": "^8.0.3",
+    "q": "^1.5.1",
+    "require": "^2.4.20"
+  }
+}
